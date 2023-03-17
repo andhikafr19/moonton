@@ -62,3 +62,61 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+<!-- Breeze Library -->
+<p align="center"><img src="/art/logo.svg" alt="Logo Laravel Breeze"></p>
+
+<p align="center">
+    <a href="https://packagist.org/packages/laravel/breeze">
+        <img src="https://img.shields.io/packagist/dt/laravel/breeze" alt="Total Downloads">
+    </a>
+    <a href="https://packagist.org/packages/laravel/breeze">
+        <img src="https://img.shields.io/packagist/v/laravel/breeze" alt="Latest Stable Version">
+    </a>
+    <a href="https://packagist.org/packages/laravel/breeze">
+        <img src="https://img.shields.io/packagist/l/laravel/breeze" alt="License">
+    </a>
+</p>
+
+## Introduction
+
+Breeze provides a minimal and simple starting point for building a Laravel application with authentication. Styled with Tailwind, Breeze publishes authentication controllers and views to your application that can be easily customized based on your own application's needs.
+
+Laravel Breeze is powered by Blade and Tailwind. If you're looking for a more robust Laravel starter kit that includes two factor authentication, Livewire / Inertia support, and more, check out [Laravel Jetstream](https://jetstream.laravel.com).
+
+## Official Documentation
+
+Documentation for Breeze can be found on the [Laravel website](https://laravel.com/docs/starter-kits#laravel-breeze).
+
+## Contributing
+
+Thank you for considering contributing to Breeze! You can read the contribution guide [here](.github/CONTRIBUTING.md).
+
+## Code of Conduct
+
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+
+## Security Vulnerabilities
+
+Please review [our security policy](https://github.com/laravel/breeze/security/policy) on how to report security vulnerabilities.
+
+## License
+
+Laravel Breeze is open-sourced software licensed under the [MIT license](LICENSE.md).
+
+<!-- Intertia -->
+[![Inertia.js](https://raw.githubusercontent.com/inertiajs/.github/master/LOGO.png)](https://inertiajs.com/)
+
+Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers. Find full documentation at [inertiajs.com](https://inertiajs.com/).
+
+## Sponsors
+
+A huge thanks to all [our sponsors](https://inertiajs.com/sponsors) who help push Inertia.js development forward! In particular, we'd like to say a special thank you to our partners:
+
+<p>
+  <a href="https://forge.laravel.com">
+    <img src="./sponsors/forge.svg" width="150" alt="Laravel Forge">
+  </a>
+</p>
+
+If you'd like to become a sponsor, please [see here](https://inertiajs.com/sponsors) for more information. 💜
